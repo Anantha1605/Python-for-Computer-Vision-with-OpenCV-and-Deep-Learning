@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb061831-3059-4c65-b01b-4c6cb51e77e7" name="Changes" comment="Add file">
+      <change afterPath="$PROJECT_DIR$/Blurring_or_Smoothing_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blurring_real_life_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connecting_to_your_camera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drawing_rectangles_with_cursor_move.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradients.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Histograms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Thresholding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_thresholding_real_life_applications.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Morphological_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writing_to_video_stream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opening_image_file_with_OpenCV_and_using_keys_to_close_window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-NumPy-and-Image-Basics/03-Numpy-and-Image-Assessment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/00-NumPy-and-Image-Basics/03-Numpy-and-Image-Assessment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Image-Processing/04-Morphological-Operators.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02-Image-Processing/04-Morphological-Operators.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Object-Tracking/.ipynb_checkpoints/00-Optical-Flow-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Object-Tracking/.ipynb_checkpoints/01-MeanShift-Tracking-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Object-Tracking/.ipynb_checkpoints/02-CamShift-Tracking-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Object-Tracking/.ipynb_checkpoints/03-Tracking-APIs-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Object-Tracking/.ipynb_checkpoints/04-Object-Tracking-Assessment-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Object-Tracking/.ipynb_checkpoints/05-Object-Tracking-Assessment-Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Object-Tracking/00-Optical-Flow.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Object-Tracking/01-MeanShift-Tracking.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Object-Tracking/02-CamShift-Tracking.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Object-Tracking/03-Tracking-APIs.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Object-Tracking/04-Object-Tracking-Assessment.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Object-Tracking/05-Object-Tracking-Assessment-Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Deep-Learning-Computer-Vision/.ipynb_checkpoints/03-Deep-Learning-Custom-Images-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/06-Deep-Learning-Computer-Vision/.ipynb_checkpoints/03-Deep-Learning-Custom-Images-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Deep-Learning-Computer-Vision/03-Deep-Learning-Custom-Images.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/06-Deep-Learning-Computer-Vision/03-Deep-Learning-Custom-Images.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Deep-Learning-Computer-Vision/06-YOLOv3/06-YOLO-Object-Detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/06-Deep-Learning-Computer-Vision/06-YOLOv3/06-YOLO-Object-Detection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos_coursecv.yml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2q4lhLDy43EDOHgunU0RQzDdkTJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Blurring_or_Smoothing_images.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Blurring_real_life_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Connecting_to_your_camera.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Drawing_circles_with_cursor_move.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Drawing_rectangle_on_blank_canvas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Drawing_rectangles_with_cursor_move.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Drawing_shapes_on_blank_canvas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Drawing_with_mouse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Drawing_with_mouse_adding_functionality_with_events.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandTrackingModule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Histograms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Image_Thresholding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Image_thresholding_real_life_applications.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Morphological_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Using_existing_video_files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Writing_to_video_stream.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Manan/OneDrive/Desktop/Computer-Vision-with-Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;,
+      &quot;JupyterPython&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb061831-3059-4c65-b01b-4c6cb51e77e7" name="Changes" comment="" />
+      <created>1733929846350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733929846350</updated>
+      <workItem from="1733929847478" duration="125000" />
+      <workItem from="1734010110144" duration="12241000" />
+      <workItem from="1734784871912" duration="6769000" />
+      <workItem from="1735476624318" duration="1568000" />
+      <workItem from="1736242391259" duration="2985000" />
+      <workItem from="1736763809012" duration="5241000" />
+      <workItem from="1736833544573" duration="6295000" />
+      <workItem from="1737107918859" duration="2398000" />
+      <workItem from="1737811426520" duration="48000" />
+      <workItem from="1737960902693" duration="1137000" />
+      <workItem from="1742031242434" duration="1576000" />
+      <workItem from="1742036503523" duration="1405000" />
+      <workItem from="1742120748128" duration="2632000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add file">
+      <option name="closed" value="true" />
+      <created>1737961440401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737961440402</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add file" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Practice_py$Drawing_shapes_on_blank_canvas.coverage" NAME="Drawing_shapes_on_blank_canvas Coverage Results" MODIFIED="1734341206712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$HandTrackingModule.coverage" NAME="HandTrackingModule Coverage Results" MODIFIED="1734600542829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/Practice_py$Blurring_or_Smoothing_images.coverage" NAME="Blurring_or_Smoothing_images Coverage Results" MODIFIED="1736768753112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$Practice.coverage" NAME="Practice Coverage Results" MODIFIED="1734195719958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$Drawing_with_mouse_adding_functionality_with_events.coverage" NAME="Drawing_with_mouse_adding_functionality_with_events Coverage Results" MODIFIED="1734598102928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$Drawing_circles_with_cursor_move.coverage" NAME="Drawing_circles_with_cursor_move Coverage Results" MODIFIED="1735037820466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$Drawing_with_mouse.coverage" NAME="Drawing_with_mouse Coverage Results" MODIFIED="1734447768635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$Drawing_rectangles_with_cursor_move.coverage" NAME="Drawing_rectangles_with_cursor_move Coverage Results" MODIFIED="1734864680448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$Morphological_operators.coverage" NAME="Morphological_operators Coverage Results" MODIFIED="1736835718340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$Writing_to_video_stream.coverage" NAME="Writing_to_video_stream Coverage Results" MODIFIED="1742036548844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$Connecting_to_your_camera.coverage" NAME="Connecting_to_your_camera Coverage Results" MODIFIED="1742035127855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$test.coverage" NAME="test Coverage Results" MODIFIED="1734257705788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$Blurring_real_life_example.coverage" NAME="Blurring_real_life_example Coverage Results" MODIFIED="1736768620881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$Image_thresholding_real_life_applications.coverage" NAME="Image_thresholding_real_life_applications Coverage Results" MODIFIED="1736765721118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1734600917722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/Practice_py$new.coverage" NAME="new Coverage Results" MODIFIED="1734258734186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$Image_Thresholding.coverage" NAME="Image_Thresholding Coverage Results" MODIFIED="1736764044836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/Practice_py$Drawing_rectangle_on_blank_canvas.coverage" NAME="Drawing_rectangle_on_blank_canvas Coverage Results" MODIFIED="1734259127759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$Histograms.coverage" NAME="Histograms Coverage Results" MODIFIED="1736839890028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_py$Using_existing_video_files.coverage" NAME="Using_existing_video_files Coverage Results" MODIFIED="1737961396531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
